@@ -18,14 +18,20 @@ Coloque alguma imagem criativa sobre finanças, algo fora do padrão, seja criat
 3. Create an ebook content with chatgpt
 ```markdown
 Crie um texto para um ebook com o titulo "Inside the Deal: Os Bastidores do Investment Banking nas Finanças Corporativas". 
-O ebook possui como foco a área de investment banking e finanças corporativas. Traga insights interessantes e relevantes sobre a área. 
+O ebook possui como foco a área de investment banking e finanças corporativas. 
+Traga insights interessantes e relevantes sobre a área. 
+
 {Regras} 
 - Explique de uma maneira simples e interessante 
-- Deixe o texto enxuto - Traga exemplos com contextos reais 
-- Sempre deixe um título sugestivo por tópico 
-- Considere que cada tópico tenha pelo menos 1 página A4 de texto corrido considerando tamanho 24px
+- Deixe o texto enxuto 
+- Traga exemplos com contextos reais 
+- Sempre deixe um título e subtitulo sugestivo por tópico 
+- o título e subtítulo devem ocupar no máximo 2 linhas
+- Considere que cada tópico tenha pelo menos 1 página A4 de texto corrido considerando tamanho 24px e o titulo e subtítulo dos tópicos que são respectivamente de 40px e 32px
+- Crie um texto criativo e interessante sobre as áreas com base no mundo real
+- Cite pelo menos um tópico mais aprofundado para DCM (debt capital markets)
 ```
-Content in another markdown file
+Content bellow:
 
 ```
 # Inside the Deal: Os Bastidores do Investment Banking nas Finanças Corporativas
@@ -88,6 +94,4 @@ Nos bastidores de cada fusão, cada IPO ou cada emissão de dívida, há uma equ
 
 ```
 
-4. 
-
-3. Formart the ebook with powerpoint
+4. Include and format content in the powepoint
